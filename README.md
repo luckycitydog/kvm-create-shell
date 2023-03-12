@@ -1,5 +1,5 @@
 # kvm-create-shell
-快速创建kvm虚拟机的shell脚本
+快速创建kvm虚拟机的shell脚本，更改脚本中的如下配置，即可快速复制模板
 
 VM_CONFIG_PATH="/etc/libvirt/qemu"              //kvm的xml的路径
 VM_IMAGE_PATH="/kvm/vdisks"                     //虚拟硬盘的路径
